@@ -36,12 +36,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielLima00&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima00&layout=compact&theme=tokyonight)  
-
----
 
 ## 📫 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lima-191878385/)  
