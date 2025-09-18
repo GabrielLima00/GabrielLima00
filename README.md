@@ -22,8 +22,6 @@
 
 ---
 
-
-## 🐍 Commit Snake (fun)
 ![Snake animation](https://github.com/GabrielLima00/GabrielLima00/blob/output/snake.svg)
 
 ---
