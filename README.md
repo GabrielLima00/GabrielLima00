@@ -26,8 +26,6 @@
 ## 🐍 Commit Snake (fun)
 ![Snake animation](https://github.com/GabrielLima00/GabrielLima00/blob/output/snake.svg)
 
-> Para ativar: adiciona o workflow `snake.yml` em `.github/workflows` (posso dar-te o ficheiro se ainda não tiveres).
-
 ---
 
 ## 📫 How to reach me
