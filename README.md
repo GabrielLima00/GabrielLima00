@@ -22,9 +22,6 @@
 
 ---
 
-![Snake animation](https://github.com/GabrielLima00/GabrielLima00/blob/output/snake.svg)
-
----
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lima-191878385/)
