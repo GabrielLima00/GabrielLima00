@@ -1,4 +1,4 @@
-# 👋 Olá, 
+# 👋 Olá
 
 🎓 Estudante de **Engenharia em Desenvolvimento de Jogos Digitais**  
 💻 Interessado em **Game Development, Software Development e Web Applications**  
