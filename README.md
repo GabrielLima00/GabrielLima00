@@ -3,11 +3,6 @@
 
 Hi, I'm José Gabriel 👋
 
-🎓 Graduate in **Digital Games Engineering**  
-💻 Interested in **Game Development, Software Development and Web Applications**
-📍 Barcelos, Braga – Portugal
----
-
 ## 🛠️ Technical Skills
 ![C#](https://img.shields.io/badge/Code-C%23-239120?logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
